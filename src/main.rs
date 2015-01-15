@@ -28,4 +28,6 @@ fn main() {
     while renderer.running() {
         renderer.tick()
     }
+
+    println!("Rusted Space ended not with a bang, but with whimper");
 }
